@@ -1,7 +1,7 @@
 {
   "name": "novel-assistant",
+  "description": "Claude Code 长篇小说创作助手 - 世界观管理、角色库、大纲编写、智能写作、多视角评价",
   "version": "0.1.0",
-  "description": "长篇小说创作管理助手 - 管理世界观、角色库、时间线，提供标准化创作流程",
   "author": {
     "name": "Novel Assistant",
     "email": "noreply@github.com"
@@ -17,12 +17,5 @@
     "世界观",
     "角色",
     "大纲"
-  ],
-  "commands": [
-    "./commands/init.md",
-    "./commands/outline.md",
-    "./commands/review.md",
-    "./commands/write.md",
-    "./commands/status.md"
   ]
 }
