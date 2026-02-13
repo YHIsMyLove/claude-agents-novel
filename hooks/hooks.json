@@ -1,0 +1,13 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "Write|Edit",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo \"[Novel Word Count Updated]\""
+        }
+      ]
+    }
+  ]
+}

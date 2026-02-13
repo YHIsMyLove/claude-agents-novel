@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+.wolf/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+*.log

@@ -1,0 +1,29 @@
+{
+  "name": "novel-assistant",
+  "version": "0.1.0",
+  "description": "长篇小说创作管理助手 - 管理世界观、角色库、时间线，提供标准化创作流程",
+  "author": {
+    "name": "Novel Assistant",
+    "email": "noreply@github.com"
+  },
+  "homepage": "https://github.com/YHIsMyLove/claude-agents-novel",
+  "repository": "https://github.com/YHIsMyLove/claude-agents-novel",
+  "license": "MIT",
+  "keywords": [
+    "novel",
+    "writing",
+    "小说",
+    "创作",
+    "世界观",
+    "角色",
+    "大纲"
+  ],
+  "category": "writing",
+  "commands": [
+    "./commands/init.md",
+    "./commands/outline.md",
+    "./commands/review.md",
+    "./commands/write.md",
+    "./commands/status.md"
+  ]
+}
