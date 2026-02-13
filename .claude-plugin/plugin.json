@@ -18,7 +18,6 @@
     "角色",
     "大纲"
   ],
-  "category": "writing",
   "commands": [
     "./commands/init.md",
     "./commands/outline.md",
