@@ -1,0 +1,29 @@
+{
+  "name": "novel-assistant-marketplace",
+  "owner": {
+    "name": "YHIsMyLove",
+    "email": "331446704@qq.com"
+  },
+  "metadata": {
+    "description": "Claude Code 长篇小说创作助手 - 世界观管理、角色库、大纲编写、智能写作、多视角评价",
+    "version": "0.1.0",
+    "category": "writing",
+    "keywords": [
+      "novel",
+      "writing",
+      "小说",
+      "创作",
+      "世界观",
+      "角色",
+      "大纲"
+    ]
+  },
+  "plugins": [
+    {
+      "name": "novel-assistant",
+      "description": "Novel Assistant - 长篇小说创作管理助手",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}
